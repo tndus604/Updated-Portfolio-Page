@@ -1,6 +1,10 @@
+/* brand name in navbar */
 #myName{
     color: rgb(235, 161, 173);
+    font-family: 'Pacifico', cursive;
+
 }
+
 
 .jumbotron {
     position: relative;
@@ -14,7 +18,7 @@
 
 div div div i {
     margin-bottom: 20px;
-    color: black;
+    color: rgba(0, 0, 0, 0.774);
 }
 
 h5 {
@@ -44,11 +48,6 @@ h2 span {
 
 
 
-.nav-link {
-    color: gray;
-    font-size: 15px;
-}
-
 #navigation::before, #navigation::after {
     background-color: #d0d0d0;
     content: "";
@@ -62,6 +61,31 @@ h2 span {
 
 .container {
     margin-top: 50px;
+}
+
+#card {
+    border: 1px solid lightgrey;
+    margin-top: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+
+}
+
+.card-image {
+    height: 60%;
+    width:100%;
+    border-bottom: 1px solid lightgrey
+}
+
+#projectButton {
+    background-color: rgb(235, 161, 173);
+    border: rgb(235, 161, 173);
+    color: white;
+}
+
+#card-footer {
+    background-color: white;
+    border-top: none;
 }
 
 .myImg{
