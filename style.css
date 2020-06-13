@@ -1,0 +1,90 @@
+#myName{
+    color: rgb(235, 161, 173);
+}
+
+.jumbotron {
+    position: relative;
+    background: linear-gradient( rgba(36, 0, 25, 0.452), rgba(37, 1, 26, 0.452) ), url("https://cdn-stack.compsmag.com/wp-content/uploads/2020/03/best-hp-laptops-for-programming-hp-tech-takes-1-1024x369.jpg");
+    background-size: cover;
+}
+
+#haley {
+    color:rgb(235, 161, 173);
+}
+
+div div div i {
+    margin-bottom: 20px;
+}
+
+h4 {
+    color: rgb(235, 161, 173);
+}
+
+p{
+    color: gray;
+}
+
+#profilePic {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+}
+
+
+.nav-link {
+    color: gray;
+    font-size: 15px;
+}
+#navigation::before, #navigation::after {
+    background-color: #d0d0d0;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    bottom: .1em;
+    position: relative;
+    vertical-align: middle;
+    width: 50%;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.myImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+#submitBtn {
+    background-color: rgb(235, 161, 173);
+    color: white;
+
+}
+
+.card {
+    margin-right: 8%;
+    margin-left:8%;
+    margin-top: 50px;
+    color: gray;
+}
+
+#contact {
+    color: rgb(235, 161, 173);
+}
+
+footer{
+    margin-top: 200px;
+    height: 100px;
+}
+
+footer a i {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
