@@ -125,7 +125,10 @@ h2 span {
 }
 
 #right-col {
-    padding: 2%;
+    padding-top: 2%;
+    padding-right: 5%;
+    padding-left: 5%;
+    margin-bottom:2%;
 }
 
 #contact {
