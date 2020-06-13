@@ -14,15 +14,13 @@
 
 div div div i {
     margin-bottom: 20px;
+    color: black;
 }
 
-h4 {
+h5 {
     color: rgb(235, 161, 173);
 }
 
-p{
-    color: gray;
-}
 
 #profilePic {
     width: 180px;
@@ -30,11 +28,27 @@ p{
     border-radius: 50%;
 }
 
+div h2 {
+    color: gray;
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid lightgray; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+}
+
+h2 span { 
+    background:#fff; 
+    padding:0 10px; 
+}
+
+
 
 .nav-link {
     color: gray;
     font-size: 15px;
 }
+
 #navigation::before, #navigation::after {
     background-color: #d0d0d0;
     content: "";
@@ -87,4 +101,10 @@ footer a i {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+@media (max-width: 768px) {
+    #Hello {
+        text-align: center;
+    }
 }
