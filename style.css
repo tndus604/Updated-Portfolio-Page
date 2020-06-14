@@ -165,5 +165,9 @@ footer a i {
     #Hi {
         font-size: 40px;
     }
+    
+    .progress-bar {
+        font-size: 9px;
+    }
 
 }
