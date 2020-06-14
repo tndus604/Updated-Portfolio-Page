@@ -1,5 +1,13 @@
 # Updated-Portfolio-Page
 
+My deployed URL: "https://tndus604.github.io/Updated-Portfolio-Page/"
+
+![Mobile View](./assets/mobile1.png)
+![Mobile View2](./assets/mobile2.png)
+![Mobile View3](./assets/mobile4.png)
+![Desktop View](./assets/computerscreen.png)
+
+
 # Unit 08 Project 1 Homework: Professional Materials
 
 Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer competitive.
