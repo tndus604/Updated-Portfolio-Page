@@ -78,8 +78,13 @@ h2 span {
 
 }
 
+.card-title {
+    /* color: rgb(235, 161, 173); */
+    color: rgba(0, 0, 0, 0.644);
+}
+
 .card-image {
-    height: 60%;
+    height: 280px;
     width:100%;
     border-bottom: 1px solid lightgrey
 }
