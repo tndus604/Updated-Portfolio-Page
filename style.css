@@ -68,13 +68,11 @@ h2 span {
     margin-top: 50px;
 }
 
-.card-group {
-    margin-top:5%;
-}
 #card {
     border: 1px solid lightgrey;
     margin-left: 2%;
     margin-right: 2%;
+    height: 450px;
 
 }
 
@@ -89,15 +87,16 @@ h2 span {
     border-bottom: 1px solid lightgrey
 }
 
-#projectButton {
-    background-color: rgb(235, 161, 173);
-    border: rgb(235, 161, 173);
-    color: white;
+#card-body {
+    padding-bottom:0;
+    font-size: 13px;
 }
+
 
 #card-footer {
     background-color: white;
     border-top: none;
+    font-size: 12px;
 }
 
 .myImg{
