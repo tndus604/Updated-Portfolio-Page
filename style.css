@@ -19,7 +19,6 @@ body {
 
 #haley {
     color:rgb(235, 161, 173);
-    animation: hiMove 5s infinite;
 }
 
 div div div i {
@@ -174,10 +173,4 @@ footer a i {
         font-size: 9px;
     }
 
-}
-
-
-@keyframe hiMove {
-    from {left: 0px;}
-    to {left: 50%}
 }
